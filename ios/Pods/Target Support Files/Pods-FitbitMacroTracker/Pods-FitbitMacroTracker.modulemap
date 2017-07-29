@@ -1,0 +1,6 @@
+framework module Pods_FitbitMacroTracker {
+  umbrella header "Pods-FitbitMacroTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
